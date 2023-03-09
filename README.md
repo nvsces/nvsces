@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 * 💻 I am a senior Flutter developer 
 * 👨🏼‍💻Currently I am working on the LETIT app (website https://letit.app/) 
 * 📱I have developed the following apps: 
@@ -16,4 +14,4 @@ Crossball – https://apps.apple.com/ru/app/%D1%81rossball/id1627269403
 Молодая Арктика – https://apps.apple.com/ru/app/%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F-%D0%B0%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/id6443747882
 
 * 📨 How to reach me: Telegram @nvsces
--->
+
